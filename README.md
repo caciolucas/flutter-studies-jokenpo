@@ -1,16 +1,13 @@
-# jokenpo
+# Jokenpo
 
-A new Flutter project.
+This app is a simple game of Jokenpo between the user and the computer.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Preview
 
-A few resources to get you started if this is your first Flutter project:
+<img src="./example/Jokenpo.png" width="200">
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Technologies used
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Mobile
+![Flutter Logo in a shields.io badge](https://img.shields.io/badge/Flutter-gray.svg?logo=flutter&style=for-the-badge&color=02569B&logoColor=white)
